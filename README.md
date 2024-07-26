@@ -21,7 +21,7 @@ Excel finance analytics involves using Excel's tools and functions to analyze fi
 5. Proficiency in incorporating supplementary data into an existing data model.
 6. Utilizing DAX to create calculated columns.
 
-## Soft Skills:
+**Soft Skills** :
 1. Refined understanding of Sales & Finance Reports
 2. Designing user-centric reports with empathy in mind.
 3. Optimization of report generation through meticulous fine-tuning.
